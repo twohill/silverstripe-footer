@@ -1,0 +1,15 @@
+{
+    "name": "twohill/silverstripe-footer",
+    "description": "Provides siteconfig fields for footers",
+    "type": "silverstripe-module",
+    "require": {
+        "silverstripe/cms": "^4.2"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Al Twohill",
+            "email": "al@twohill.nz"
+        }
+    ]
+}
