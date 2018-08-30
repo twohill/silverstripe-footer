@@ -1,8 +1,9 @@
 {
     "name": "twohill/silverstripe-footer",
     "description": "Provides siteconfig fields for footers",
-    "type": "silverstripe-module",
+    "type": "silverstripe-vendormodule",
     "require": {
+        "php": ">=7",
         "silverstripe/cms": "^4.2"
     },
     "license": "BSD-3-Clause",
